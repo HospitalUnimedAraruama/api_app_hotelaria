@@ -1,0 +1,120 @@
+2025-05-04T21:27:33.513Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:27:33.515Z [ERROR]: logger is not defined
+2025-05-04T21:27:59.511Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:27:59.512Z [ERROR]: logger is not defined
+2025-05-04T21:28:02.586Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:28:02.587Z [ERROR]: logger is not defined
+2025-05-04T21:28:47.099Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:28:47.101Z [ERROR]: logger is not defined
+2025-05-04T21:29:18.041Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:18.042Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:18.043Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:29:39.349Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:39.350Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:39.351Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:29:42.715Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:42.716Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:29:42.716Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:31:20.719Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:31:20.721Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:31:20.721Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:31:38.530Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:31:38.531Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:31:38.531Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:32:49.495Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:32:49.496Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:32:49.496Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:33:33.114Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:33:33.115Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:33:33.116Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:34:33.807Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:33.809Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:33.809Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:34:34.831Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:34.831Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:34.831Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:34:56.061Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:56.062Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:34:56.062Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:35:32.296Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:35:32.297Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:35:32.297Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:35:45.030Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:35:45.032Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:35:45.032Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:36:42.309Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:37:20.897Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:37:20.898Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:37:20.899Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:37:47.780Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:37:47.781Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:37:47.781Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:38:03.869Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:38:03.869Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:38:03.869Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:38:42.966Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:38:42.967Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:38:42.967Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:39:14.994Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:39:14.995Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:39:14.995Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:40:14.903Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:14.904Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:14.904Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:40:16.728Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:16.728Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:16.728Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:40:34.825Z [ERROR]: Repository - createColaborador SequelizeValidationError: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:34.826Z [ERROR]: Service - Erro na criacao do colaborador: notNull Violation: colaborador.senhaColaborador cannot be null,
+notNull Violation: colaborador.salt cannot be null
+2025-05-04T21:40:34.826Z [ERROR]: Erro ao criar colaborador
+2025-05-04T21:42:20.229Z [ERROR]: Repository - getColaboradorId Error: WHERE parameter "codColaborador" has invalid "undefined" value
+2025-05-04T21:42:20.230Z [ERROR]: Service - Erro ao buscar colaboradore pelo seu ID: WHERE parameter "codColaborador" has invalid "undefined" value
+2025-05-04T21:42:20.231Z [ERROR]: Erro ao buscar colaborador por ID
+2025-05-04T21:44:20.055Z [ERROR]: Repository - getColaboradorId Error: WHERE parameter "codColaborador" has invalid "undefined" value
+2025-05-04T21:44:20.056Z [ERROR]: Service - Erro ao buscar colaboradore pelo seu ID: WHERE parameter "codColaborador" has invalid "undefined" value
+2025-05-04T21:44:20.056Z [ERROR]: Erro ao buscar colaborador por ID
